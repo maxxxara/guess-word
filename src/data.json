@@ -1,0 +1,44 @@
+{
+	"words": [
+		{
+			"id": 1,
+			"word": "practice",
+			"definition": "a customary way of operation or behavior"
+		},
+		{
+			"id": 2,
+			"word": "minute",
+			"definition": "infinitely or immeasurably small"
+		},
+		{
+			"id": 3,
+			"word": "level",
+			"definition": "a relative position or degree of value in a graded group"
+		},
+		{
+			"id": 4,
+			"word": "range",
+			"definition": "a variety of different things or activities"
+		},
+		{
+			"id": 5,
+			"word": "compassion",
+			"definition": "a feeling of wanting to help someone who is sick"
+		},
+		{
+			"id": 6,
+			"word": "jargon",
+			"definition": "he language used for a particular activity or by a particular group of people"
+		},
+		{
+			"id": 7,
+			"word": "obtain",
+			"definition": "to gain or get something usually by effor"
+		},
+		{
+			"id": 8,
+			"word": "hypothesis",
+			"definition": " an idea or theory that is not proven"
+		}
+	]
+}
